@@ -16,7 +16,7 @@ UART0 is used.
 | UART Gps Module  |  Raspberry Pi PIN |
 | --- | --- |
 |GND | GND |
-|VCC | +5V |
+|VCC | +3.3V |
 |TxD | GPIO14 (UART0 TxD) |
 |RxD | GPIO15 (UART0 RxD) |
 |PPS (Only NEO-7M) | Not Connected |
