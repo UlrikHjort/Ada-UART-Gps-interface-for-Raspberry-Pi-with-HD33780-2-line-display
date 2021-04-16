@@ -4,6 +4,7 @@ Ada UART gps interface for Raspberry Pi for reading Time, Latitude and Longitude
 
 ## Hardware:
 * Hitachi HD44780 2x16 5x7 LCD display
+* PCF8574 Remote 8-bit I/O I2C expander
 * Raspberry Pi 3 Model B+
 * Gps module ZHITING NEO-7M UBLOX
 * Gps module Aideepen GY-GPS6MV2 NEO-6M 
