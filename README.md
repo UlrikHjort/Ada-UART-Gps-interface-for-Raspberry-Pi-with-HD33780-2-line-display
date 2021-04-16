@@ -17,8 +17,8 @@ UART0 is used.
 | --- | --- |
 |GND | GND |
 |VCC | +3.3V |
-|TxD | GPIO14 (UART0 TxD) |
-|RxD | GPIO15 (UART0 RxD) |
+|RxD | GPIO14 (UART0 TxD) |
+|TxD | GPIO15 (UART0 RxD) |
 |PPS (Only NEO-7M) | Not Connected |
 
 
