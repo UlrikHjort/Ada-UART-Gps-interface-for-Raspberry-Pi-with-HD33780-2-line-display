@@ -16,7 +16,6 @@
 -- You Should Have Received A Copy of The GNU General Public License
 -- Along with This Program; if not, See <Http://Www.Gnu.Org/Licenses/>.
 ---------------------------------------------------------------------------
-with Ada.Text_IO; use Ada.Text_IO;
 with HD44780;
 with Gps;
 
