@@ -18,7 +18,7 @@
 ---------------------------------------------------------------------------
 package Gps is
    
-   subtype Time_Len is Positive range 1 .. 10;
+   subtype Time_Len is Positive range 1 .. 9;
    subtype Lat_Len is Positive range 1 .. 12;
    subtype Lon_Len is Positive range 1 .. 13;   
    
